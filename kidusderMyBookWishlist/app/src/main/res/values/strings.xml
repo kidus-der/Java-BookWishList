@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">kidusder-MyBookWishlist</string>
+    <string name="submit">Submit</string>
+    <string name="book_title_hint">Book Title</string>
+    <string name="author_name_hint">Author Name</string>
+    <string name="read_status">Read</string>
+    <string name="save_book_to_list">Save</string>
+    <string name="cancel_edit_to_book">Cancel</string>
+    <string name="publication_year_hint">XXXX</string>
+    <string name="book_count_text">Total Books: %1$d, Read: %2$d</string>
+    <string-array name="book_genre_options">
+        <item>Fiction</item>
+        <item>Non-Fiction</item>
+        <item>Science Fiction</item>
+        <item>Historical</item>
+        <item>Fantasy</item>
+        <item>Biography/Auto</item>
+        <item>Self-Help</item>
+        <item>Other</item>
+    </string-array>
+</resources>
